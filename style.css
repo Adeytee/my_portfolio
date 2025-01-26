@@ -305,3 +305,12 @@ section {
   width: 400px;
   margin: auto 0;
 }
+
+.projects {
+  display: grid;
+  padding-top: 1rem;
+}
+
+.errandsdash {
+  padding-bottom: 1rem;
+}
